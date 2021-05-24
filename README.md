@@ -39,5 +39,5 @@ For more details, see the documentation in the Python files.
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-└── requirements.txt             # Python package requirements
+└── requirements.txt           # Python package requirements
 ```
